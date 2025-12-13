@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>IIIT Delhi</a>. New Delhi, India
+subtitle: <a href='https://www.iiitd.ac.in'>IIIT Delhi</a>. New Delhi, India
 
 profile:
   align: right 
