@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.iiitd.ac.in'>IIIT Delhi</a>. New Delhi, India
+subtitle: CSE @ <a href='https://www.iiitd.ac.in'>IIIT Delhi</a>
 
 profile:
   align: left 
