@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received best teaching assistant award for the course CSE101: Introduction to Programming.
+Received best teaching assistant award.
