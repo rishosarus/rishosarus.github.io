@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-received-best-teaching-assistant-award-for-the-course-cse101-introduction-to-programming",
-          title: 'Received best teaching assistant award for the course CSE101: Introduction to Programming.',
+            },},{id: "news-received-best-teaching-assistant-award",
+          title: 'Received best teaching assistant award.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
