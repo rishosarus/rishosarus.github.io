@@ -19,7 +19,7 @@
         "position": "Undergraduate Research Assistant",
         "startDate": "2020-06-01",
         "endDate": "2021-05-01",
-        "summary": "Evaluated spatial memory detector tools on functionality and performance. Found new bugs in benchmarks that were not present in the literature."
+        "summary": "Evaluated spatial memory bug detector tools on functionality and performance. Found new bugs in benchmarks that were not present in the literature."
     }
   ],
   "education": [
