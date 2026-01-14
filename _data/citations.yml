@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2025-12-15'
+  last_updated: '2026-01-14'
 papers:
   vMa2_LoAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'CGuard: Efficient Spatial Safety for C'
     year: '2021'
   vMa2_LoAAAAJ:u5HHmVD_uO8C:
-    citations: 2
+    citations: 3
     title: 'CGuard: Scalable and Precise Object Bounds Protection for C'
     year: '2023'
