@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CSE @ <a href='https://www.iiitd.ac.in'>IIIT Delhi</a>
+subtitle: Project Scientist @ <a href='https://www.iitd.ac.in'>IIT Delhi</a>
 
 profile:
   align: left 
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computer science student interested in operating systems, compilers, and parallel runtime systems. My work focuses on concurrency, performance engineering, and building efficient low-level systems. I enjoy exploring the intersection of theory and systems implementation.
+I am a computer science researcher interested in operating systems, compilers, and parallel runtime systems. My work focuses on concurrency, performance engineering, and building efficient low-level systems. I enjoy exploring the intersection of theory and systems implementation.
