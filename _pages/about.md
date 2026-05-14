@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Project Scientist at IIT Delhi, working on data streaming systems. Previously, I was a master's student at IIIT Delhi. I enjoy research that sits at the intersection of theory and systems.
+I am a Project Scientist at IIT Delhi, currently working on data streaming systems. Previously, I was a master's student at IIIT Delhi. I enjoy research that sits at the intersection of theory and systems.
