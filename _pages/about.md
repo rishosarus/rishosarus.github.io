@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computer science researcher interested in operating systems, compilers, and parallel runtime systems. My work focuses on concurrency, performance engineering, and building efficient low-level systems. I enjoy exploring the intersection of theory and systems implementation.
+I am a Project Scientist at IIT Delhi, working on data streaming systems. Previously, I was a master's student at IIIT Delhi. I enjoy research that sits at the intersection of theory and systems.
